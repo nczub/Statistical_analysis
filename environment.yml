@@ -1,0 +1,16 @@
+name: for_statistics
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - glob
+  - os
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - scikit-posthocs
