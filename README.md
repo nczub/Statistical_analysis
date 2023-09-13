@@ -1,4 +1,4 @@
-# Statistical_analysis
+# Statistical analysis
 Python script for statistical analysis
 
 
