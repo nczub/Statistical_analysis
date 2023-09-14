@@ -1,6 +1,13 @@
 # Statistical analysis
-Python script for statistical analysis
+Python script for statistical analysis. 
 
+For finding variables that differentiate 10 groups. 
+
+In my example, this is 10 types of serotonin receptors.
+
+## Instruction
+
+1. Create conda environment
 
 For create conda environment use this code in console:
 
@@ -8,4 +15,19 @@ For create conda environment use this code in console:
 $ conda env create -f environment.yml
 ```
 
-Than, use Python script
+2. Activate conda environemnt
+```bash
+$ conda activate for_statistical_analysis
+```
+
+3. Change upper part of script
+
+For your own dataset change 'file', 'grouping_variable' (which consists information about groups),
+'file_name' (core part of future files with results) and assumption of alpha value. In my research was 0.05. 
+
+
+4. Use script
+```bash
+$ python statistical_analysis.py
+```
+
