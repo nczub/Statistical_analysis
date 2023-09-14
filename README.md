@@ -31,3 +31,7 @@ For your own dataset change 'file', 'grouping_variable' (column which consists o
 $ python statistical_analysis.py
 ```
 
+## Additional information
+
+For statistical analysis, I've taken several steps and selected tests according to my statistical knowledge.
+
