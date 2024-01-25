@@ -17,7 +17,7 @@ $ conda env create -f environment.yml
 
 2. Activate conda environment
 ```bash
-$ conda activate for_statistical_analysis
+$ conda activate for_statistics
 ```
 
 3. Change the upper part of the script
